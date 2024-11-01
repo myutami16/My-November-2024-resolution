@@ -30,3 +30,5 @@ Create a new branch or file for each week/topic. Log:
 ---
 
 Staying consistent with this structure should help solidify your understanding! Keep pushing forward—good luck!
+
+aespa whiplash
